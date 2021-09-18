@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **anything related to Cloud & DevOps**
 
-- 📫 How to reach me **pramanik.85849@gmail.com**
+- 📫 How to reach me **ankit.pramanik@mediaagility.com**
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
