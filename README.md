@@ -18,14 +18,14 @@
 
 - 💬 Ask me about **anything related to Cloud & DevOps**
 
-- 📫 How to reach me **ankit.pramanik@mediaagility.com**
+- 📫 How to reach me **ankit_pramanik@persistent.com**
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
 ## Experience
 
-Software Engineer @ MediaAgility 
-(#Agilite)
+Software Engineer @ Persistent 
+
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
